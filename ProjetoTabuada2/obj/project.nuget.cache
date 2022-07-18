@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "yxlxtO/1gs8nd88pqwBJc/2Cvc/+MKrrBylGTWznnAR6tE7grpaLxzRGPNHRhJqryT4XPAwKv2NCLP5zi8ECbA==",
+  "success": true,
+  "projectFilePath": "C:\\projetos\\ProjetoTabuada2\\ProjetoTabuada2\\ProjetoTabuada2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hamic\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,16 @@
+C:\projetos\ProjetoTabuada2\ProjetoTabuada2\obj\Debug\net5.0\ProjetoTabuada2.csproj.AssemblyReference.cache
+C:\projetos\ProjetoTabuada2\ProjetoTabuada2\obj\Debug\net5.0\ProjetoTabuada2.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\ProjetoTabuada2\ProjetoTabuada2\obj\Debug\net5.0\ProjetoTabuada2.AssemblyInfoInputs.cache
+C:\projetos\ProjetoTabuada2\ProjetoTabuada2\obj\Debug\net5.0\ProjetoTabuada2.AssemblyInfo.cs
+C:\projetos\ProjetoTabuada2\ProjetoTabuada2\obj\Debug\net5.0\ProjetoTabuada2.csproj.CoreCompileInputs.cache
+C:\projetos\ProjetoTabuada2\ProjetoTabuada2\bin\Debug\net5.0\ProjetoTabuada2.exe
+C:\projetos\ProjetoTabuada2\ProjetoTabuada2\bin\Debug\net5.0\ProjetoTabuada2.deps.json
+C:\projetos\ProjetoTabuada2\ProjetoTabuada2\bin\Debug\net5.0\ProjetoTabuada2.runtimeconfig.json
+C:\projetos\ProjetoTabuada2\ProjetoTabuada2\bin\Debug\net5.0\ProjetoTabuada2.runtimeconfig.dev.json
+C:\projetos\ProjetoTabuada2\ProjetoTabuada2\bin\Debug\net5.0\ProjetoTabuada2.dll
+C:\projetos\ProjetoTabuada2\ProjetoTabuada2\bin\Debug\net5.0\ProjetoTabuada2.pdb
+C:\projetos\ProjetoTabuada2\ProjetoTabuada2\obj\Debug\net5.0\ProjetoTabuada2.dll
+C:\projetos\ProjetoTabuada2\ProjetoTabuada2\obj\Debug\net5.0\refint\ProjetoTabuada2.dll
+C:\projetos\ProjetoTabuada2\ProjetoTabuada2\obj\Debug\net5.0\ProjetoTabuada2.pdb
+C:\projetos\ProjetoTabuada2\ProjetoTabuada2\obj\Debug\net5.0\ProjetoTabuada2.genruntimeconfig.cache
+C:\projetos\ProjetoTabuada2\ProjetoTabuada2\obj\Debug\net5.0\ref\ProjetoTabuada2.dll
